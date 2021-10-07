@@ -13,7 +13,7 @@ ML: sklearn, pandas, numpy,  keras. API: flask Данные: CIFAR-10 dataset
 60000 цветных изображений разрешением 32x32
     
 
-Модель: CNN
+Модель: AlexNet CNN
 Клонируем репозиторий и создаем образ
 
 $ git clone https://github.com/mr-rider/ml_business_course_progect
